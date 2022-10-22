@@ -30,6 +30,8 @@ a {
     position: fixed;
     width: 280px;
     background-color: #171d20;
+    display: flex;
+    flex-direction: column;
 }
 
 .name {
@@ -48,7 +50,8 @@ a {
 }
 
 .social-icons {
-    margin: 0 auto;
+    margin: 10px auto;
+    display: inline-flex;
 }
 
 #linkedin::before {
@@ -58,6 +61,27 @@ a {
     width: 26px;
     height: 26px;
     display:block;
+    margin: 0 4px;
+}
+
+#github::before {
+    background-image: url("../images/github.png");
+    background-size: cover;
+    content: '';
+    width: 26px;
+    height: 26px;
+    display:block;
+    margin: 0 4px;
+}
+
+#google::before {
+    background-image: url("../images/google.png");
+    background-size: cover;
+    content: '';
+    width: 26px;
+    height: 26px;
+    display: block;
+    margin: 0 4px;
 }
 
 @media screen and (min-width: 900px) {

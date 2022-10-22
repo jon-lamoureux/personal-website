@@ -16,6 +16,10 @@
                 <div class="social-icons">
                     <a href="https://www.linkedin.com/in/jonathan-p-lamoureux" id="linkedin"> 
                     </a>
+                    <a href="https://github.com/jon-lamoureux" id="github"> 
+                    </a>
+                    <a href="mailto:jonathanplamoureux@gmail.com" id="google"> 
+                    </a>
                 </div>
             </nav>
             <div class="content">
