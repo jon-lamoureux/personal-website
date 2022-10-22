@@ -1,0 +1,72 @@
+html {
+    height: 100%;
+}
+
+body {
+    color: #eee;
+    font-family: 'Open Sans', Arial;
+    height: 100%;
+    margin: 0px;
+}
+
+.header {
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #eee;
+}
+
+.main {
+    background-color: #1e2529;
+    height: 100%;
+    overflow: hidden;
+}
+
+.navbar {
+    color: #eee;
+    height: 100vh;
+    position: fixed;
+    width: 280px;
+    background-color: #171d20;
+}
+
+.name {
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.profile-pic {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    margin: 40px auto 10px auto;
+    display: block;
+    border: 5px solid #9ba8af;
+}
+
+.social-icons {
+    margin: 0 auto;
+}
+
+#linkedin::before {
+    background-image: url("../images/linkedin.png");
+    background-size: cover;
+    content: '';
+    width: 26px;
+    height: 26px;
+    display:block;
+}
+
+@media screen and (min-width: 900px) {
+    .content {
+        margin-left: 280px;
+    }
+}    
+@media screen and (max-width: 900px) {
+    .navbar {
+        display: none;
+    }
+}    

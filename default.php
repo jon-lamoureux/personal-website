@@ -3,13 +3,28 @@
     <head>
         <title>My Portfolio</title>
         <link rel="icon" type="image/x-icon" href="images/favicon.png">
+        <link rel="stylesheet" href="css/main.css">
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1" name="viewport">
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
     </head>
     <body>
-        <div class="content">
-           Content
+        <div class="main">
+            <nav class="navbar">
+                <img src="images/1.jpg" class="profile-pic"/>
+                <div class="name"><a href="https://jonlamoureux.com/">Jonathan Lamoureux</a></div>
+                <div class="social-icons">
+                    <a href="https://www.linkedin.com/in/jonathan-p-lamoureux" id="linkedin"> 
+                    </a>
+                </div>
+            </nav>
+            <div class="content">
+                <div class="sections">
+                    <section class="resume">
+                        Resume
+                    </section>
+                </div>
+            </div>
         </div>
     </body>
 </html>

@@ -1,2 +1,2 @@
 # personal-website
-Git repo for my personal website 
+https://jonlamoureux.com/
