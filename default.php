@@ -24,8 +24,18 @@
             </nav>
             <div class="content">
                 <div class="sections">
-                    <section class="resume">
-                        Resume
+                    <section class="about">
+                        <div class="card card-1">
+                            <p class="card-header">Card header</p>
+                            <p class="card-content">Card content</p>
+                        </div>
+                        <div class="card card-2">
+                            <p class="card-header">Card header</p>
+                            <p class="card-content">Card content</p>
+                        </div>
+                    </section>
+                    <section class="experience">
+                        experience
                     </section>
                 </div>
             </div>
