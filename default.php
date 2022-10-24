@@ -75,6 +75,21 @@
                             </div>  
                         </div>
                     </section>
+                    <h1 class="section-header">Awards</h1>
+                    <section class="awards">
+                        <div class="card card-1">
+                            <div class="inner">
+                                <p class="card-header">Outstanding Senior Award <span class="left-float">Stetson University</span></p>
+                                <p class="card-content">Card content</p>
+                            </div>  
+                        </div>
+                        <div class="card card-2">
+                            <div class="inner">
+                                <p class="card-header">Dean's List<span class="left-float">Stetson University</span</p>
+                                <p class="card-content">Card content</p>
+                            </div>
+                        </div>
+                    </section>
                 </div>
             </div>
         </div>
