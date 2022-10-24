@@ -62,7 +62,7 @@ a {
     border: 1px solid #777;
     margin: 10px 20px;
     padding: 10px 20px;
-    width: 450px;
+    width: 550px;
     display: inline-block;
     vertical-align: top;
     background-color: #1a2024;
@@ -88,6 +88,7 @@ a {
 .left-float {
     float: right;
     font-size: 14px;
+    font-weight: normal;
 }
 
 .social-icons {
@@ -133,5 +134,8 @@ a {
 @media screen and (max-width: 900px) {
     .navbar {
         display: none;
+    }
+    .card {
+        width: calc(100% - 80px);
     }
 }    

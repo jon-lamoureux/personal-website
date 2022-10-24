@@ -51,12 +51,28 @@
                     <h1 class="section-header">Experience</h1>
                     <section class="about">
                         <div class="card card-1">
-                            <p class="card-header">Card header</p>
-                            <p class="card-content">Card content</p>
+                            <div class="inner">
+                                <p class="card-header">Stetson University<span class="left-float">August 2021 - Present</span</p>
+                                <p class="card-content">Card content</p>
+                            </div>
                         </div>
                         <div class="card card-2">
-                            <p class="card-header">Card header</p>
-                            <p class="card-content">Card content</p>
+                            <div class="inner">
+                                <p class="card-header">Brown & Brown Insurance <span class="left-float">June 2022 - August 2022</span></p>
+                                <p class="card-content">Card content</p>
+                            </div>  
+                        </div>
+                        <div class="card card-3">
+                            <div class="inner">
+                                <p class="card-header">Ming Entertainment <span class="left-float">August 2019 - November 2019</span></p>
+                                <p class="card-content">Card content</p>
+                            </div>  
+                        </div>
+                        <div class="card card-4">
+                            <div class="inner">
+                                <p class="card-header">St. Peter’s Catholic Church <span class="left-float">March 2017 - March 2019</span></p>
+                                <p class="card-content">Card content</p>
+                            </div>  
                         </div>
                     </section>
                 </div>
