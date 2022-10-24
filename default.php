@@ -24,6 +24,31 @@
             </nav>
             <div class="content">
                 <div class="sections">
+                    <h1 class="section-header">Education / Certifications</h1>
+                    <section class="education">
+                        <div class="card card-1">
+                            <div class="inner">
+                                <p class="card-header">Stetson University <span class="left-float">GPA: 3.89</span></p>
+                                <p class="card-content">Bachelor of Science (Graduating December 2022)<br>
+                                Major in <b>Cybersecurity</b>, minor in <b>Data Analytics</b><br></p>
+                            </div>
+                        </div>
+                        <div class="card card-2">
+                            <div class="inner">
+                                <p class="card-header">Daytona State College <span class="left-float">GPA: 3.97</span></p>
+                                <p class="card-content">Dual Enrollment (Jan 2018 - Dec 2019)<br></p>
+                            </div>  
+                        </div>
+                        <div class="card card-3">
+                            <div class="inner">
+                                <p class="card-header">Certifications</p>
+                                <p class="card-content">CompTIA Security+ (SY0-601)<br>
+                                Code: <a href="https://www.certmetrics.com/comptia/public/verification.aspx/" class="cert-link">8VZ5GY9Q221QQP3T</a>
+                                </p>
+                            </div>  
+                        </div>
+                    </section>
+                    <h1 class="section-header">Experience</h1>
                     <section class="about">
                         <div class="card card-1">
                             <p class="card-header">Card header</p>
@@ -33,9 +58,6 @@
                             <p class="card-header">Card header</p>
                             <p class="card-content">Card content</p>
                         </div>
-                    </section>
-                    <section class="experience">
-                        experience
                     </section>
                 </div>
             </div>

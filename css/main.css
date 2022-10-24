@@ -44,6 +44,10 @@ a {
     font-size: 22px;
 }
 
+.section-header {
+    margin-left: 20px;
+}
+
 .card-header {
     font-weight: bold;
     font-size: 18px;
@@ -56,11 +60,16 @@ a {
 .card {
     border-radius: 10px;
     border: 1px solid #777;
-    margin: 50px 20px;
+    margin: 10px 20px;
     padding: 10px 20px;
     width: 450px;
     display: inline-block;
+    vertical-align: top;
     background-color: #1a2024;
+}
+
+.education .card {
+    height: 120px;
 }
 
 .profile-pic {
@@ -70,6 +79,15 @@ a {
     margin: 40px auto 10px auto;
     display: block;
     border: 5px solid #9ba8af;
+}
+
+.cert-link {
+    color: #8099aa;
+}
+
+.left-float {
+    float: right;
+    font-size: 14px;
 }
 
 .social-icons {
