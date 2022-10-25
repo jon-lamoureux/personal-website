@@ -20,8 +20,6 @@ a {
 
 .main {
     background-color: #1e2529;
-    height: 100%;
-    overflow: hidden;
 }
 
 .navbar {
@@ -68,9 +66,6 @@ a {
     background-color: #1a2024;
 }
 
-.education .card {
-    height: 120px;
-}
 
 .profile-pic {
     border-radius: 100%;
@@ -126,6 +121,16 @@ a {
     margin: 0 4px;
 }
 
+@media screen and (min-width: 1570px) {
+    .about .card {
+        height: 250px;
+    }
+        
+    .education .card {
+        height: 120px;
+    }
+}    
+
 @media screen and (min-width: 900px) {
     .content {
         margin-left: 280px;
@@ -139,3 +144,12 @@ a {
         width: calc(100% - 80px);
     }
 }    
+
+.content {
+    padding-top: 10px;
+}
+
+
+ul {
+    font-size: 14px;
+}

@@ -53,25 +53,35 @@
                         <div class="card card-1">
                             <div class="inner">
                                 <p class="card-header">Stetson University<span class="left-float">August 2021 - Present</span</p>
-                                <p class="card-content">Card content</p>
+                                <p class="card-content"><ul><li>Conducted a Web Application Security Assessment of Stetson’s primary Internet-facing website in conjunction with Stetson’s IT department.   Helped to secure Student PII and other FERPA-related data.  Briefed IT leadership and University President on all findings and suggestions for remediation</li>
+                                <li>Using Python, Neo4J, and GraphQL, simulated the evolution of passwords in the university environment using user behavior and password psychology by applying rules to the password.   The results were then compared to a dataset of millions of different passwords, and stored in a graph database to better visualize the output</li>
+<li>Provided tutoring services in Python, C, C++ and Java to students</li></ul>
+</p>
                             </div>
                         </div>
                         <div class="card card-2">
                             <div class="inner">
                                 <p class="card-header">Brown & Brown Insurance <span class="left-float">June 2022 - August 2022</span></p>
-                                <p class="card-content">Card content</p>
+                                <p class="card-content"><ul><li>Designed and programmed a narrow purpose artificial intelligence program (AI) in Python utilizing cloud computing resources at Microsoft Azure.   This machine learning-based product was used internally across all divisions for helping employees connect with each other to find likeminded peers and build meaningful connections</li></ul></p>
                             </div>  
                         </div>
                         <div class="card card-3">
                             <div class="inner">
                                 <p class="card-header">Ming Entertainment <span class="left-float">August 2019 - November 2019</span></p>
-                                <p class="card-content">Card content</p>
+                                <p class="card-content"><ul><li>Operated parabolic microphone units on location for a nationwide Audio/Visual company</li>
+<li>Worked for customers such as ESPN and Fox Sports on live broadcasted events</li>
+<li>Cooperated efficiently with teammates in high-stress environments that provided little room for error
+</li></ul></p>
                             </div>  
                         </div>
                         <div class="card card-4">
                             <div class="inner">
                                 <p class="card-header">St. Peter’s Catholic Church <span class="left-float">March 2017 - March 2019</span></p>
-                                <p class="card-content">Card content</p>
+                                <p class="card-content"><ul><li>Managed Audio/Visual-related tasks for the church</li>
+<li>Interfaced with church leadership to coordinate projects, and ensured that those projects were completed by specified deadlines</li>
+<li>Managed the delegation of specific tasks to other staff members </li>
+<li>Determine ideal film locations and planned shots to achieve intended results
+</li></ul></p>
                             </div>  
                         </div>
                     </section>
@@ -80,13 +90,11 @@
                         <div class="card card-1">
                             <div class="inner">
                                 <p class="card-header">Outstanding Senior Award <span class="left-float">Stetson University</span></p>
-                                <p class="card-content">Card content</p>
                             </div>  
                         </div>
                         <div class="card card-2">
                             <div class="inner">
-                                <p class="card-header">Dean's List<span class="left-float">Stetson University</span</p>
-                                <p class="card-content">Card content</p>
+                                <p class="card-header">Dean's List x4<span class="left-float">Stetson University</span</p>
                             </div>
                         </div>
                     </section>
