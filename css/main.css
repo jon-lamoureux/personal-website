@@ -122,8 +122,12 @@ a {
 }
 
 @media screen and (min-width: 1570px) {
-    .about .card {
+    .about .card-1, .about .card-2 {
         height: 250px;
+    }
+
+    .about .card-3, .about .card-4 {
+        height: 180px;
     }
         
     .education .card {
